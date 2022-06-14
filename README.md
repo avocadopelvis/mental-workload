@@ -1,4 +1,4 @@
-# Diagnosis of mental load from ECG signals.
+# Diagnosis of mental workload from ECG signals. (Research Project - IIT Kharagpur)
 
 * Performed data preprocessing using pandas to to convert the filtered signal data into samples of 15 seconds each.
 * Implemented a Fully Connected Neural Network using PyTorch.
