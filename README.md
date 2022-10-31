@@ -10,7 +10,7 @@ This project is an effort to use Deep Learning to understand the mental workload
 Given a ECG signal, classifiy the correct n-back task being performed.
 
 # Tasks
-* Performed data preprocessing using pandas to to convert the filtered signal data into samples of 15 seconds each.
+* Performed data preprocessing using pandas to convert the filtered signal data into samples of 15 seconds each.
 * Implemented a Fully Connected Neural Network using PyTorch.
 * Performed hyperparameter tuning to improve the accuracy on the validation data.
 * Performed Data Augmentation to increase the training data by adding noise to the dataset.
